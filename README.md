@@ -4,18 +4,29 @@
 ![Format](https://img.shields.io/badge/Format-Markdown-blue?style=flat-square)
 ![Sprache](https://img.shields.io/badge/Sprache-Deutsch-orange?style=flat-square)
 ![Thema](https://img.shields.io/badge/Thema-Medienbildung%20%7C%20KI-lightgrey?style=flat-square)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Aktiv-10b981?style=flat-square&logo=github)](#)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Aktiv-10b981?style=flat-square&logo=github)](https://jbkunama1.github.io/trt.Seminararbeit/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Dieses Repository enthält die Seminararbeit **„Entwicklung der Medienkompetenz in der SEK I – Neue Anforderungen durch die schulische Implementierung der KI“** sowie die begleitenden Materialien und Abbildungen.
+Dieses Repository enthält die Seminararbeit **„Entwicklung der Medienkompetenz in der SEK I – Neue Anforderungen durch die schulische Implementierung der KI“** sowie die begleitenden Materialien, Abbildungen und eine Videopräsentation.
 
 ## 📄 Die Seminararbeit lesen
 
-Die vollständige Arbeit liegt im Markdown-Format vor und kann direkt hier auf GitHub oder über die Projekt-Webseite gelesen werden:
+Die vollständige Arbeit liegt im Markdown-Format vor und kann direkt hier auf GitHub gelesen werden:  
 👉 **[Zur Seminararbeit (seminararbeit_1.0.md)](./seminararbeit_1.0.md)**
 
 ## 💡 Kurzbeschreibung
 
-Die Arbeit untersucht, wie sich Medienkompetenz in der Sekundarstufe I unter den Bedingungen der schulischen Implementierung von Künstlicher Intelligenz (KI) weiterentwickeln muss. Im Mittelpunkt stehen theoretische Grundlagen, die Einordnung von KI im Bildungsbereich, neue curriculare Anforderungen in Baden-Württemberg sowie konkrete Ansätze für den Praxistransfer (Unterricht und Schulentwicklung).
+Die Arbeit untersucht, wie sich Medienkompetenz in der Sekundarstufe I unter den Bedingungen der schulischen Implementierung von Künstlicher Intelligenz (KI) weiterentwickeln muss. Im Mittelpunkt stehen theoretische Grundlagen, die Einordnung von KI im Bildungsbereich, neue curriculare Anforderungen in Baden-Württemberg sowie konkrete Ansätze für den Praxistransfer im Unterricht und der Schulentwicklung.
+
+## 🎥 Videopräsentation
+
+Hier kannst du dir das begleitende Video direkt ansehen oder herunterladen:
+
+<div align="center">
+  <video src="https://github.com/jbkunama1/trt.Seminararbeit/raw/main/Entwicklung_der_Medienkompeten.mp4" width="80%" controls preload="metadata"></video>
+  <br/>
+  <i>Sollte das Video nicht laden, kannst du es auch <a href="https://github.com/jbkunama1/trt.Seminararbeit/blob/main/Entwicklung_der_Medienkompeten.mp4">hier direkt auf GitHub aufrufen</a>.</i>
+</div>
 
 ## 🖼️ Begleitende Abbildungen
 
@@ -45,4 +56,4 @@ Die Arbeit untersucht, wie sich Medienkompetenz in der Sekundarstufe I unter den
 7. Literaturverzeichnis (APA 7)
 
 ---
-*Erstellt 2026 – Für wissenschaftliche/schulische Zwecke.*
+*Erstellt 2026 – Lizenziert unter der MIT Lizenz.*
