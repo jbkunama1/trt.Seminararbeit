@@ -12,7 +12,7 @@ Dieses Repository enthält die Seminararbeit **„Entwicklung der Medienkompeten
 ## 📄 Die Seminararbeit lesen
 
 Die vollständige Arbeit liegt im Markdown-Format vor und kann direkt hier auf GitHub gelesen werden:  
-👉 **[Zur Seminararbeit (seminararbeit_1.0.md)](./seminararbeit_1.0.md)**
+👉 **[Zur Seminararbeit (Seminararbeit_2.11.md)](./seminararbeit_2.11.md)**
 
 ## 💡 Kurzbeschreibung
 
